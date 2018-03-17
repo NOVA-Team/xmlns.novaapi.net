@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website/https/xmlns.novaapi.net.svg)](https://xmlns.novaapi.net)
+[![Website](https://img.shields.io/website/https/xmlns.novaapi.net.svg?style=flat-square)](https://xmlns.novaapi.net)
 
 # NOVA XML namespace
 Used for all NOVA XML namespaces

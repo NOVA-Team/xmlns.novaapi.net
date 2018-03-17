@@ -6,8 +6,14 @@
 !CNAME
 
 # Sources
+!/_*
+/_site
+!/static
+!/nova-ui
+!_config.yml
 !*.html
 !*.xhtml
+!*.xml
 
 # github
 !/.gitattributes

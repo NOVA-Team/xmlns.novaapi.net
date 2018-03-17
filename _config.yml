@@ -1,0 +1,18 @@
+# Site settings
+title: NOVA XML Namespaces
+description: NOVA (Neatly Organized Voxel API) is a modding framework for voxel games.
+author: ExE Boss
+baseurl: ""
+url: "https://xmlns.novaapi.net"
+
+# Build Settings
+markdown: redcarpet
+permalink: /:title/
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
