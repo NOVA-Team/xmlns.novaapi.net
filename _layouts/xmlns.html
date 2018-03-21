@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<section class="nova-header jumbotron">
+	<div class="container">
+		<div class="row justify-content-center">
+			<h1 class="nova-title text-center mb-5 col-auto mw-100vw px-0">{% comment %}
+				<!-- The site URL is hard-coded because an XML namespace can’t be renamed once set -->{% endcomment %}
+				The <small><code class="text-lowercase mw-100vw">https://xmlns<wbr/>.novaapi<wbr/>.net{{ page.url | split: "/" | join: "/<wbr/>" | replace: "-", "‑" }}</code></small> namespace
+			</h1>
+		</div>
+	</div>
+</section>
+
+{{ content }}
